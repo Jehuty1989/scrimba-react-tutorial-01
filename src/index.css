@@ -20,6 +20,10 @@
   padding-left: 8px;
 }
 
+.nav-bar-left > img {
+  width: 28.93px;
+}
+
 .nav-bar > h4 {
   color: #CCD7E3;
   font-size: 1em;
