@@ -43,6 +43,7 @@
   font-weight: 700;
   margin: 0;
   margin-bottom: 24px;
+  letter-spacing: -0.05em;
 }
 
 .main-list > li {
